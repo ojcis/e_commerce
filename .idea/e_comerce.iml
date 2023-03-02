@@ -115,6 +115,29 @@
       <excludeFolder url="file://$MODULE_DIR$/back-end/vendor/symfony/error-handler" />
       <excludeFolder url="file://$MODULE_DIR$/back-end/vendor/symfony/polyfill-intl-grapheme" />
       <excludeFolder url="file://$MODULE_DIR$/back-end/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/dataSources" />
+      <excludeFolder url="file://$MODULE_DIR$/back-end/storage/framework/cache/data/1b" />
+      <excludeFolder url="file://$MODULE_DIR$/back-end/storage/framework/cache/data/02" />
+      <excludeFolder url="file://$MODULE_DIR$/back-end/storage/framework/cache/data/6b" />
+      <excludeFolder url="file://$MODULE_DIR$/back-end/storage/framework/cache/data/7e" />
+      <excludeFolder url="file://$MODULE_DIR$/back-end/storage/framework/cache/data/8d" />
+      <excludeFolder url="file://$MODULE_DIR$/back-end/storage/framework/cache/data/8e" />
+      <excludeFolder url="file://$MODULE_DIR$/back-end/storage/framework/cache/data/25" />
+      <excludeFolder url="file://$MODULE_DIR$/back-end/storage/framework/cache/data/28" />
+      <excludeFolder url="file://$MODULE_DIR$/back-end/storage/framework/cache/data/52" />
+      <excludeFolder url="file://$MODULE_DIR$/back-end/storage/framework/cache/data/60" />
+      <excludeFolder url="file://$MODULE_DIR$/back-end/storage/framework/cache/data/70" />
+      <excludeFolder url="file://$MODULE_DIR$/back-end/storage/framework/cache/data/71" />
+      <excludeFolder url="file://$MODULE_DIR$/back-end/storage/framework/cache/data/99" />
+      <excludeFolder url="file://$MODULE_DIR$/back-end/storage/framework/cache/data/aa" />
+      <excludeFolder url="file://$MODULE_DIR$/back-end/storage/framework/cache/data/bb" />
+      <excludeFolder url="file://$MODULE_DIR$/back-end/storage/framework/cache/data/c0" />
+      <excludeFolder url="file://$MODULE_DIR$/back-end/storage/framework/cache/data/ce" />
+      <excludeFolder url="file://$MODULE_DIR$/back-end/storage/framework/cache/data/d7" />
+      <excludeFolder url="file://$MODULE_DIR$/back-end/storage/framework/cache/data/dc" />
+      <excludeFolder url="file://$MODULE_DIR$/back-end/storage/framework/cache/data/ec" />
+      <excludeFolder url="file://$MODULE_DIR$/back-end/storage/framework/cache/data/ee" />
+      <excludeFolder url="file://$MODULE_DIR$/back-end/vendor" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
