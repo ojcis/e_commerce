@@ -22,7 +22,7 @@
 ## Instructions:
 * Clone this repository
 * In terminal navigate to back-end folder, Install the required packages using the command:<br><code>composer install</code>
-* In new terminal navigate to front-end folder, Install the required packages using the command:<br><code>npm i</code>
+* Navigate to front-end folder, Install the required packages using the command:<br><code>npm i</code>
 * Create mySQL schema.
 * Make a copy of the <code>.env.example</code> and rename the copy to <code>.env</code> in back-end folder.
 * Enter the mySQL credentials in the <code>.env</code> file. (DB_DATABASE, DB_USERNAME, DB_PASSWOR)
